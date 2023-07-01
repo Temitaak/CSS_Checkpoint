@@ -20,17 +20,23 @@ li > a{
 
 .mydiv{
     text-align: center;
-    background-color: pink;
+    background-color:rgb(249, 234, 221);
     height: 100px;
 }
 .myWork{
     text-align: center;
-    background-color: rgba(0, 128, 128, 0.443);
+    background-color:  rgba(230, 183, 147, 0.878);
     height: 100px ;
 
 }
-.mycontact{
+
+.myresume{
     text-align: center;
     background-color: rgba(128, 47, 0, 0.443);
-    height: 100px ;
+    height: 100px ;  
+}
+.mycontact{
+    text-align: center;
+    background-color: rgba(72, 37, 74, 0.443);
+    height: 200px ;
 }
