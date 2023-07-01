@@ -1,0 +1,36 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+ul{
+    display: flex;
+}
+
+li{
+    padding: 10px;
+    list-style: none;
+}
+
+li > a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.63);
+    font-weight: 700;
+}
+
+.mydiv{
+    text-align: center;
+    background-color: pink;
+    height: 100px;
+}
+.myWork{
+    text-align: center;
+    background-color: rgba(0, 128, 128, 0.443);
+    height: 100px ;
+
+}
+.mycontact{
+    text-align: center;
+    background-color: rgba(128, 47, 0, 0.443);
+    height: 100px ;
+}
